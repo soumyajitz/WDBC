@@ -1,8 +1,18 @@
 h1{
-	color: #4B0082;
+	font-family: Roboto;
+	font-size: 50px;
+
 }
 
 li{
 	color: #66CDAA;
 
+}
+
+body{
+	}
+
+p {
+	font-family: Arial;
+	line-height: 2;
 }
